@@ -1,0 +1,38 @@
+<div class="container">
+        <h2>O que é Transtorno do Espectro Autista(TEA ou Autismo)?</h2>
+        <p>
+            O autismo, ou Transtorno do Espectro Autista (TEA), é uma condição complexa do neurodesenvolvimento que afeta
+            a forma como uma pessoa se comunica e interage com o mundo ao seu redor.
+
+            Características principais do autismo:
+
+            Dificuldades na comunicação:
+            Pode incluir atrasos na fala, dificuldades em iniciar e manter conversas, uso
+            limitado da linguagem corporal e dificuldade em entender o significado não verbal da comunicação.
+
+            Dificuldades na interação social:
+            Podem manifestar-se como falta de interesse em interagir com outras pessoas, dificuldade em fazer amigos,
+            falta de reciprocidade emocional e dificuldade em compreender as regras sociais.
+
+            Padrões de comportamento repetitivos:
+            Variam dos casos, alguns tem a tendência de reproduzir movimentos repetitivos (balançar, girar ou imitar comportamentos), apegos intensos a objetos ou rotinas, e interesses restritos e intensos em determinados tópicos.
+            É importante ressaltar que o autismo é um espectro, o que significa que cada pessoa com autismo é única e
+            apresenta sintomas em diferentes graus de intensidade. Não existem duas pessoas com autismo exatamente
+            igual.  Vou lhe dar um exemplo: 
+            
+            Imagine que a palavra 'espectro', seja alterada para o sentido de fantasma ou espirito, agora me responda uma pergunta, o Gasparzinho é igual ao Penadinho, essa é a questão, nem todos os fantasmas são iguais, como também nenhum autista é, se eu fosse adotar um termo melhor seria que são pessoas atípicas, que significa algo que se afasta do que é normal, típico, comum, pois eles tem uma mente fora desse complexo.
+        </p>
+    </div>
+            <div class="container">
+        <h2>O que é Transtorno do Espectro Autista(TEA ou Autismo)?</h2>
+        <p>
+        </p>
+    </div>
+    <div class="comentarios">
+        <h2>Comentários:</h2>
+        <div class="coment">
+            <textarea name="comentario" placeholder="Deixe seu comentario, dica ou feedback, já me ajuda" rows="15" cols="50" id="coment" maxlength="300" minlength="30"></textarea>
+            <button id="comentarios">Enviar</button>
+    </div>
+            <div id="comentario-listados">
+    </div>
