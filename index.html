@@ -9,14 +9,15 @@
 </head>
 
 <body>
-    <header>
-        <h1>A Vida de uma Pessoa com Autismo</h1>
-    </header>
     <main>
-        <section>
+        <header>
+            <h1>A Vida de uma Pessoa com Autismo</h1>
+        </header>
+        <section class="source">
             <input type="text" placeholder="Escreva aqui">
             <button>Pesquisar</button>
         </section>
+    </div>
     <div class="container">
         <h1>O que é Transtorno do Espectro Autista(TEA ou Autismo)?</h1>
         <p>
@@ -44,13 +45,12 @@
     </div>
     <div class="comentarios">
         <h2>Comentários:</h2>
-        <label for="coment">
-            <textarea name="comentario" placeholder="Deixe seu comentario, dica ou feedback, já me ajuda" rows="15" cols="50" id="coment" maxlength="300" minlength="20"></textarea>
-            <input type="submit" value="Enviar">
-        </div>
-            <div id="comentario">
-        </div>
-        </label>
+        <div class="coment">
+            <textarea name="comentario" placeholder="Deixe seu comentario, dica ou feedback, já me ajuda" rows="15" cols="50" id="coment" maxlength="300" minlength="30"></textarea>
+            <button id="comentarios">Enviar</button>
+    </div>
+            <div id="comentario-listados">
+    </div>
     </main>
 
     <footer>
