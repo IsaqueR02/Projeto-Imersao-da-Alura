@@ -21,13 +21,17 @@ img {
   max-width: 900px;
   margin: 0 auto;
   margin-top: 30px;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.575);
   padding: 20px;
   box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
 }
 
 .container {
   position: relative;
+}
+
+.container h1 {
+  color: #222831;
 }
 
 .titulo {
@@ -93,7 +97,7 @@ textarea {
 /* Estiliza o corpo da página */
 body {
   font-family: "Chakra Petch", sans-serif; /* Define a fonte padrão */
-  background-color: #dddddd; /* Cor de fundo da página */
+  background-color: rgba(34, 92, 179, 0.712); /* Cor de fundo da página */
   display: flexbox; /* Usa Flexbox para layout */
   flex-direction: column; /* Alinha os itens na vertical */
   align-items: center; /* Centraliza os itens horizontalmente */
@@ -106,7 +110,7 @@ body {
 /* Estiliza os títulos h1 */
 h1 {
   font-size: 2.5rem; /* Tamanho da fonte */
-  color: #222831; /* Cor do texto */
+  color: #e7e7e7; /* Cor do texto */
   text-align: center; /* Alinha o texto ao centro */
   letter-spacing: 0.4rem; /* Espaçamento entre letras */
 }
