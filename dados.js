@@ -12,7 +12,7 @@ let dados = [
     titulo: "Quem sou eu?",
     descricao:
       "Sou Isaque Roberto, um desenvolvedor iniciante apaixonado por tecnologia e música. Gosto de ler, desenhar, jogar e programar. Meu sonho é trabalhar como desenvolvendo jogos e fazer um mangá para que vire um anime.",
-    linked: "./quemsoueu/index.html",
+    link: "./quemsoueu/index.html",
     tags: "eu ler  livro jogar"
   },
   // Novo objeto: Meus hobbies
@@ -20,7 +20,7 @@ let dados = [
     titulo: "Meus hobbies",
     descricao:
       "Em meus momentos de lazer, adoro ler um mangá ou livro, também leio Hqs, mas no momento não estou lendo, jogo muito no meu Ps4 e assistir filmes ou animes. Além disso, estou de aprendendo um novo idioma, o Inglês.",
-    linked: "./hobby/index.html",
+    link: "./hobby/index.html",
     tags: "eu ler desenhar  jogar"
   },
   // Novo objeto: A Importância da Inclusão de Pessoas com Autismo no Mercado de Trabalho
