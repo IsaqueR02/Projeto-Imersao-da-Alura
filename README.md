@@ -55,5 +55,4 @@ Este projeto está licenciado sob os termos da licença MIT. Todos os direitos s
 
 **#autismo #desenvolvimentoweb #javascript #html #css**
 
-**Isaque Roberto Zulato Henriques**
-**(https://www.linkedin.com/in/isaque-roberto-zulato-henriques/)**
+**[Isaque Roberto Zulato Henriques](https://www.linkedin.com/in/isaque-roberto-zulato-henriques/)**
