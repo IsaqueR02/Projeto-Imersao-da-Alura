@@ -8,7 +8,7 @@ Essa aqui é uma aplicação bem simples que eu criei para **explorar o mundo do
 
 ## 🎮 DEMO DO PROJETO:
 ![Captura de tela 2024-09-06 180516](https://github.com/user-attachments/assets/725da864-3517-492a-aa0d-c10909df8bb7)
-
+*link: https://teasobre-mim.vercel.app/*
 
 
 ## 🗳️ Vote aqui
