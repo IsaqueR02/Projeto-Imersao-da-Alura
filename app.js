@@ -31,9 +31,20 @@ function pesquisar() {
             <a href="#" target="_blank">${dado.titulo}</a> 
         </h2>
         <p class="descricao-meta">${dado.descricao}</p>
-        <a href=${dado.link || dado.linke} target="_blank">Saiba mais</a> 
+        <a href=${dado.link} target="_blank">Saiba mais</a>
     </div>
-`;
+`
+    } if (resultados == dado.linke) {
+        // vai para outra pagina
+    resultados += `
+    <div class="item-resultado">
+        <h2>
+            <a href="#" target="_blank">${dado.titulo}</a> 
+        </h2>
+        <p class="descricao-meta">${dado.descricao}</p>
+        <a href=${dado.linke} target="_blank">Saiba mais</a>
+    </div>
+`
     }
     
   }
