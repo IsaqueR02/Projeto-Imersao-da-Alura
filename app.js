@@ -31,17 +31,6 @@ function pesquisar() {
             <a href="#" target="_self">${dado.titulo}</a> 
         </h2>
         <p class="descricao-meta">${dado.descricao}</p>
-        <a href=${dado.link} target="_blank">Saiba mais</a>
-    </div>
-`//se dentro de resultados possuir um linke
-    } else if (resultados = dado.linke) {
-        // vai para esta pagina
-    resultados += `
-    <div class="item-resultado">
-        <h2>
-            <a href="#" target="_self">${dado.titulo}</a> 
-        </h2>
-        <p class="descricao-meta">${dado.descricao}</p>
         <a href=${dado.link} target="${dado.linked ? "_self" : "_blank"}">Saiba mais</a>
     </div>
 `
