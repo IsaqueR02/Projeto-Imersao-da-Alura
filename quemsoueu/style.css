@@ -4,9 +4,9 @@
 /* Estiliza o corpo da página */
 body {
     font-family: "Chakra Petch", sans-serif; /* Define a fonte padrão */
-    background-image: url('soueu2.png'); /* Defini a imagem para inserir */
-    background-size: cover; /* Ajusta a imagem para cobrir toda a área */
-    background-color: #162fa1; /* Cor de fundo da página */
+    background-color: #dddddd; /* Cor de fundo da página */
+    background: url('soueu.jpeg');/* Defini a imagem para inserir */
+    background-size: cover; /* Ajusta a imagem para cobrir toda a área*/
     display: flex; /* Usa Flexbox para layout */
     flex-direction: column; /* Alinha os itens na vertical */
     align-items: center; /* Centraliza os itens horizontalmente */
@@ -16,11 +16,10 @@ body {
     padding: 0;
 }
 
-
 /* Estiliza os títulos h1 */
 h1 {
     font-size: 2.5rem; /* Tamanho da fonte */
-    color: #fafafa; /* Cor do texto */
+    color: #dfe8f5; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     letter-spacing: 0.4rem; /* Espaçamento entre letras */
 }
@@ -30,7 +29,7 @@ section {
     display: flex; /* Usa Flexbox para layout */
     flex-direction: column; /* Alinha os itens na vertical */
     align-items: center; /* Centraliza os itens horizontalmente */
-    margin-bottom: 2rem; /* Espaçamento abaixo de cada seção */
+    margin-bottom: 3rem; /* Espaçamento abaixo de cada seção */
 }
 
 /* Estiliza os inputs dentro das seções */
@@ -45,19 +44,8 @@ section input {
     box-sizing: border-box; /* Inclui padding e border na largura total */
 }
 
-/* Estiliza os botões dentro das seções */
-section button {
-    padding: 0.8rem 1.2rem; /* Espaçamento interno do botão */
-    border: none; /* Remove a borda padrão */
-    border-radius: 1.5rem; /* Borda arredondada */
-    background-color: #4378ad; /* Cor de fundo do botão */
-    color: #F5F7F8; /* Cor do texto do botão */
-    font-size: 1rem; /* Tamanho da fonte */
-    cursor: pointer; /* Muda o cursor para indicar que é clicável */
-}
-
-/* Estiliza a caixa de resultados da pesquisa */
-.resultados-pesquisa {
+/* Estiliza a caixa de texto */
+.post {
     width: 60rem; /* Largura máxima da caixa de resultados */
     height: 46vh; /* Altura máxima da caixa de resultados */
     overflow-y: auto; /* Adiciona rolagem vertical se necessário */
@@ -66,29 +54,29 @@ section button {
     border-radius: 0.6rem; /* Borda arredondada */
 }
 
-/* Estiliza cada item de resultado */
-.item-resultado {
-    background: #ffffffab; /* Cor de fundo dos itens */
+/* Estiliza a caixa do texto */
+.eu {
+    background: #ffffffa6; /* Cor de fundo dos itens */
     border-radius: 0.6rem; /* Borda arredondada */
     padding: 1rem; /* Espaçamento interno */
     margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra leve */
 }
 
-/* Estiliza os títulos dentro dos itens de resultado */
-.item-resultado h2 {
+/* Estiliza os títulos dentro da caixa */
+.eu h2 {
     font-size: 1.5rem; /* Tamanho da fonte */
     color: #222831; /* Cor do texto */
 }
 
-/* Estiliza os links dentro dos itens de resultado */
-.item-resultado a {
+/* Estiliza os links dentro da caixa */
+.eu a {
     text-decoration: none; /* Remove o sublinhado padrão dos links */
     color: #30475E; /* Cor do texto dos links */
 }
 
 /* Estiliza os links quando são passados o mouse sobre */
-.item-resultado a:hover {
+.eu a:hover {
     text-decoration: underline; /* Adiciona sublinhado ao passar o mouse */
 }
 
@@ -109,28 +97,6 @@ footer {
     bottom: 0; /* Alinha ao fundo da página */
     font-size: 1rem; /* Tamanho da fonte */
 }
-
-@media (max-width: 768px) {
-    h1 {
-        font-size: 2rem; /* Tamanho da fonte em telas menores */
-        letter-spacing: 0.2rem; /* Espaçamento entre letras em telas menores */
-    }
-
-    section input {
-        width: 25rem; /* Largura dos inputs em telas menores */
-        padding: 0.8rem; /* Espaçamento interno em telas menores */
-    }
-
-    .resultados-pesquisa {
-        width: 40rem; /* Largura da caixa de resultados em telas menores */
-        height: 40vh; /* Altura da caixa de resultados em telas menores */
-    }
-
-    .item-resultado h2 {
-        font-size: 1.3rem; /* Tamanho da fonte dos títulos em telas menores */
-    }
-}
-
 /* Responsividade para celulares */
 @media (max-width: 480px) {
 
@@ -148,12 +114,12 @@ footer {
         font-size: 0.9rem; /* Tamanho da fonte do botão em telas pequenas */
     }
 
-    .resultados-pesquisa {
+    .post {
         width: 90%; /* Largura da caixa de resultados em telas pequenas */
         height: 50vh; /* Altura da caixa de resultados em telas pequenas */
     }
 
-    .item-resultado h2 {
+    .eu h2 {
         font-size: 1.1rem; /* Tamanho da fonte dos títulos em telas pequenas */
     }
 
