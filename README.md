@@ -1,11 +1,11 @@
 ```markdown
-## **Isaque: A vida de uma pessoa com autismo**
+## **Isaque: A vida de uma pessoa com autismo - Imersão Dev com Google Gemini**
 
 ### **Sobre o Projeto**
 
-E aí, devs!  Que tal um projeto pra gente dar boas risadas e aprender um pouco mais sobre desenvolvimento web? 
+E aí, devs! 
 
-Essa aqui é uma página bem simples que eu criei para **explorar o mundo do autismo**. A ideia é oferecer um espaço onde as pessoas possam encontrar informações relevantes sobre o tema de forma fácil e intuitiva. 
+Essa aqui é uma aplicação bem simples que eu criei para **explorar o mundo do autismo**. A ideia é apresentar de forma simplificada para as pessoas entenderam alguns assuntos e que possam encontrar informações relevantes sobre o tema de forma fácil e intuitiva. 
 
 **Funcionalidades:**
 
@@ -43,8 +43,9 @@ Essa aqui é uma página bem simples que eu criei para **explorar o mundo do aut
 
 **#autismo #desenvolvimentoweb #javascript #html #css**
 
-**[Seu nome]**
-**[Seu link para o LinkedIn ou portfólio]**
+**Isaque Roberto Zulato Henriques**
+**(https://www.linkedin.com/in/isaque-roberto-zulato-henriques/)**
 
 **P.S.:** Se você curtiu o projeto, deixa um starzinho aí no repositório pra me dar um gás!
+E vote em mim, nesse sorteio
 ```
