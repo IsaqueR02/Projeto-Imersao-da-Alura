@@ -1,4 +1,4 @@
-## **README.md Isaque: A vida de uma pessoa com autismo - Imersão Dev com Google Gemini**
+## **Isaque: A vida de uma pessoa com autismo - Imersão Dev com Google Gemini**
 
 ### **Sobre o Projeto**
 
