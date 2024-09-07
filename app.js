@@ -33,9 +33,9 @@ function pesquisar() {
         <p class="descricao-meta">${dado.descricao}</p>
         <a href=${dado.link} target="_blank">Saiba mais</a>
     </div>
-`
-    } if (resultados == dado.linke) {
-        // vai para outra pagina
+`//se dentro de resultados possuir um linke
+    } else if (resultados = dado.linke) {
+        // vai para esta pagina
     resultados += `
     <div class="item-resultado">
         <h2>
