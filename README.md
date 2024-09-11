@@ -7,7 +7,7 @@ Esse é uma apresentação sobre o tema autismo para jovens e aprensenta um pouc
 Essa aqui é uma aplicação bem simples que eu criei para **explorar o mundo do autismo**. A ideia é apresentar de forma simplificada para as pessoas entenderam alguns assuntos e que possam encontrar informações relevantes sobre o tema de forma fácil e intuitiva.
 
 ## 🎮 DEMO DO PROJETO:
-![[PrintTela](https://teasobre-mim.vercel.app/)](https://github.com/user-attachments/assets/56bc4ce4-2792-47b4-a358-da5770925f6d)
+![PrintTela](https://github.com/user-attachments/assets/56bc4ce4-2792-47b4-a358-da5770925f6d)
 
 link: https://teasobre-mim.vercel.app/
 
